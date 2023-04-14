@@ -5,7 +5,6 @@ import winsound
 from elevenlabslib import *
 from pydub import AudioSegment
 from pydub.playback import play
-import io
 
 
 
