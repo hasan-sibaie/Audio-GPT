@@ -25,6 +25,12 @@ To run the chatbot assistant, you will need to install the necessary dependencie
     ```
     pip install -r requirements.txt
     ```
+6. Install FFMPEG
+
+https://www.gyan.dev/ffmpeg/builds/
+
+![image](https://user-images.githubusercontent.com/93472563/232031709-0f4d56b8-739c-4bdb-9f2a-67a464b34c3a.png)
+
 
 ## Usage
 
