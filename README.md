@@ -3,7 +3,7 @@ This code implements a chatbot assistant that can transcribe user audio input, p
 
 
 
-# My Desktop ChatGPT Assistant
+Desktop ChatGPT Assistant
 
 This is a desktop chatbot assistant that can listen to your voice input, transcribe it into text, and respond to you both verbally and in text using the OpenAI GPT-3 API.
 
