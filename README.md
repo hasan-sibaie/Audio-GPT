@@ -29,7 +29,7 @@ To run the chatbot assistant, you will need to install the necessary dependencie
 
 https://www.gyan.dev/ffmpeg/builds/
 
-![image](https://user-images.githubusercontent.com/93472563/232031709-0f4d56b8-739c-4bdb-9f2a-67a464b34c3a.png)
+![image](https://user-images.githubusercontent.com/93472563/232031983-19a90c3a-ca88-4b6b-a776-21db208b88d0.png)
 
 
 ## Usage
