@@ -34,4 +34,4 @@ https://www.gyan.dev/ffmpeg/builds/
 
 ## Usage
 
-To start the chatbot assistant, run the following command in your terminal while in the project directory:
+Please note that you need to make sure that FFMPEG is installed and configured in the PATH environment for the code to run correctly. Also, make sure to provide the necessary API keys in the code before running it. Once the code is running, use the interface to ask questions by recording audio messages and the chatbot assistant will respond with both audio and text.
