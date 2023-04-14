@@ -35,3 +35,17 @@ https://www.gyan.dev/ffmpeg/builds/
 ## Usage
 
 Please note that you need to make sure that FFMPEG is installed and configured in the PATH environment for the code to run correctly. Also, make sure to provide the necessary API keys in the code before running it. Once the code is running, use the interface to ask questions by recording audio messages and the chatbot assistant will respond with both audio and text.
+
+
+
+
+## First Run
+
+
+![image](https://user-images.githubusercontent.com/93472563/232044412-6226b77f-ef5f-4e1c-9dab-3b8557f40e19.png)
+
+## GRADIO UI
+
+
+
+![image](https://user-images.githubusercontent.com/93472563/232044488-8e637210-5881-47f3-b843-6316cc160f54.png)
